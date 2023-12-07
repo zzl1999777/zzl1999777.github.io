@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[My full CV]()
+[My full CV](http://academicpages.github.io/files/Academic_CV_ZZL.pdf)
 
 Education
 ======
