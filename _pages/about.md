@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zi-Liang Zhang (张子良), a third year master student in Institude of Astrophysics, [College of Physical Science and Technology](http://physics.ccnu.edu.cn/English.htm), [Central China Normal University](http://english.ccnu.edu.cn/).
+I am Zi-Liang Zhang (张子良), a master student in Institude of Astrophysics, [College of Physical Science and Technology](http://physics.ccnu.edu.cn/English.htm), [Central China Normal University](http://english.ccnu.edu.cn/).
 
 A data-driven personal website
 ======
