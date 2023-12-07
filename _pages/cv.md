@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 [My full CV]()
+
 Education
 ======
 * M.S. Astronomy, Central China Normal University, 2021-2024
