@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[My full CV]()
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. Astronomy, Central China Normal University, 2021-2024
+* B.S. Physics,   Central China Normal University, 2017-2021
+
 
 Work experience
 ======
