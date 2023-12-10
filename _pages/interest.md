@@ -16,6 +16,6 @@ I tried to organize a interative star party, combining naked eyes, Electronicall
 Astrography
 ======
 I like take astrography photos.
-
+![](/images/M101.png)
 
 
