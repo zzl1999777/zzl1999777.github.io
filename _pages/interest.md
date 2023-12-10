@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Interest"
-permalink: /cv/
+permalink: /interest/
 author_profile: true
 redirect_from:
   - /resume
