@@ -12,7 +12,8 @@ redirect_from:
 Interactive star party
 ======
 I tried to organize a interactive star party, combining naked eyes, Electronically-Assisted Astronomy, and astrophysics. 
-I try to explain the physics process behind what audience naked eyes see..
+I try to explain the physics process behind what audience naked eyes see.
+![](/images/star_party.png)
 
 
 Astrography
