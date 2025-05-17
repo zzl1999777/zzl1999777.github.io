@@ -22,3 +22,12 @@ I like take astrography photos.
 ![](/images/M101.png)
 
 
+Sunset
+======
+Sunset is the gift from nature.
+![](/images/sunset.jpg)
+
+Rainbow
+======
+Rainbow can be understand by physics!
+![](/images/rainbow.jpg)
