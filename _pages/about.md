@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zi-Liang Zhang (张子良), a master student in Institude of Astrophysics, [College of Physical Science and Technology](http://physics.ccnu.edu.cn/English.htm), [Central China Normal University(华中师范大学)](http://english.ccnu.edu.cn/).
+I am Zi-Liang Zhang (张子良), a PhD candidate in University of Nevada, Las Vegas. I got my Astronomy Master degree in Institude of Astrophysics, [College of Physical Science and Technology](http://physics.ccnu.edu.cn/English.htm), [Central China Normal University(华中师范大学)](http://english.ccnu.edu.cn/).
 
 
 
@@ -19,4 +19,4 @@ I am also a amateur astronomer, I love organize star party and take beautiful as
 
 Contact Me
 ------
-zlz@mails.ccnu.edu.cn
+ziliang.zhang@unlv.edu zlz@mails.ccnu.edu.cn
